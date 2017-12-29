@@ -4,6 +4,6 @@ git has a mutable index called stage
 git add readme.txt.
 Creating a new branch is quick AND simple.
 hello, world!
-bug branch!
 dev branch!
 branch test!
+dev work!
